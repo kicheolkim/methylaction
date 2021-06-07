@@ -11,12 +11,12 @@ Depends:
     data.table,
     GenomicRanges,
     IRanges,
-    DESeq,
+    DESeq2,
     goldmine
 Imports:
     parallel,
     RColorBrewer,
-    DESeq,
+    DESeq2,
     GenomicAlignments,
     Repitools,
     reshape,
