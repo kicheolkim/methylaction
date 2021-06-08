@@ -7,5 +7,5 @@ Please see the [MethylAction web page](http://jeffbhasin.github.io/methylaction)
 Methylaction was developed by Jeffrey Bhasin, a graduate student at the [Cleveland Clinic Genomic Medicine Institute](http://www.lerner.ccf.org/gmi/).
 
 
-## Updates by Kicheol
-updated required package from 'DESeq' to 'DESeq2'
+## Update by user (Kicheol)
+Updated required package from 'DESeq' to 'DESeq2' since DESeq has been deprecated.
